@@ -10,7 +10,7 @@ AI Agent 기반 맞춤형 뉴스 서비스
 ## 기술 스택
 - Frontend: React, Next.js, Tailwind CSS
 - Backend: Node.js, Express
-- AI: OpenAI API (추후 연동)
+- AI: OpenAI API
 - DB: PostgreSQL, MongoDB (MVP에서는 Mock 데이터)
 
 ## 실행 방법
